@@ -59,15 +59,7 @@ titanic-survival-prediction/
 ├── titanic_survival_prediction.ipynb   ← Main Jupyter Notebook (with outputs)
 ├── README.md                           ← This file
 ├── requirements.txt                    ← Required Python libraries
-│
-└── figures/                            ← Generated figures (auto-saved by notebook)
-    ├── survival_by_class_gender.png
-    ├── age_distribution.png
-    ├── fare_vs_survival.png
-    ├── correlation_heatmap.png
-    ├── confusion_matrices.png
-    ├── model_comparison.png
-    └── feature_importance.png
+├── Titanic Proposal.docx        
 ```
 
 ---
